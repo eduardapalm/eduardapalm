@@ -1,8 +1,6 @@
 ## Olá, meu nome é Maria Eduarda!
 
-- 🌱 Estou estudando: **JavaScript and React.**
-- 💬 Posso ajudar com: HTML, CSS, Bootstrap e JavaScript(Básico).
-- 📫 Contate-no email: eduardapalm27@gmail.com
+- 📫 Contate-me no email: eduardapalm27@gmail.com
 - 😄 Pronomes: Ela/Dela
 
 <div align="center">
