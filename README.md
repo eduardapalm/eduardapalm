@@ -1,7 +1,13 @@
-## Olá, meu nome é Maria Eduarda!
 
-- 📫 Contate-me no email: eduardapalm27@gmail.com
-- 😄 Pronomes: Ela/Dela
+<img src="https://cdn.discordapp.com/attachments/895985356988624946/895994781954609243/github.png">
+
+<div align="center">
+<p>🌱 I'm studying: JavaScript and React.</p> 
+<p>💬 I can help you with: HTML, CSS, Bootstrap and JavaScript.</p>
+<p>📫 Contact me: eduardapalm27@gmail.com</p>
+<p>😄 Pronouns: Ela/Dela</p>
+</div>
+
 
 <div align="center">
   <a href="https://www.instagram.com/eduarda.coding/">
