@@ -5,7 +5,7 @@
 <p>🌱 I'm studying: JavaScript and React.</p> 
 <p>💬 I can help you with: HTML, CSS, Bootstrap and JavaScript.</p>
 <p>📫 Contact me: eduardapalm27@gmail.com</p>
-<p>😄 Pronouns: Ela/Dela</p>
+<p>😄 Pronouns: She/Her</p>
 </div>
 
 
