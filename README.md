@@ -2,8 +2,8 @@
 <img src="https://cdn.discordapp.com/attachments/895985356988624946/895994781954609243/github.png">
 
 <div align="center">
-<p>🌱 I'm studying: JavaScript and React.</p> 
-<p>💬 I can help you with: HTML, CSS, Bootstrap and JavaScript.</p>
+<p>🌱 I'm studying: React and C#.</p> 
+<p>💬 I can help you with: HTML, CSS, Bootstrap, JavaScript and React.</p>
 <p>📫 Contact me: eduardapalm27@gmail.com</p>
 <p>😄 Pronouns: She/Her</p>
 </div>
