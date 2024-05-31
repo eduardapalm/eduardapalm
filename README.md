@@ -1,4 +1,5 @@
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/BqqWrzL" data-context="false" ><a href="//imgur.com/a/BqqWrzL"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://cdn.discordapp.com/attachments/809488359767801951/1245999116962627584/LinkedIn_banner_minimalista_bold_verde_2.png?ex=665aca9b&is=6659791b&hm=4102bfb7b6b1abd6b85758cacd4fd5a4edd2a4292d01b6713830acbefa854866&" />
+
 <div align="center">
 <p>🌱 I'm studying: React and C#.</p> 
 <p>💬 I can help you with: HTML, CSS, Bootstrap, JavaScript and React.</p>
