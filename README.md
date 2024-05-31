@@ -1,5 +1,5 @@
 
-<img src="https://cdn.discordapp.com/attachments/895985356988624946/895994781954609243/github.png">
+<img src="https://imgur.com/a/9ALl7yW">
 
 <div align="center">
 <p>🌱 I'm studying: React and C#.</p> 
