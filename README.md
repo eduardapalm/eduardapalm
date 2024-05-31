@@ -1,6 +1,4 @@
-
-<img src="https://imgur.com/a/9ALl7yW">
-<blockquote class="imgur-embed-pub" lang="en" data-id="BqqWrzL"><a href="https://imgur.com/BqqWrzL">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/BqqWrzL" data-context="false" ><a href="//imgur.com/a/BqqWrzL"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 <div align="center">
 <p>🌱 I'm studying: React and C#.</p> 
 <p>💬 I can help you with: HTML, CSS, Bootstrap, JavaScript and React.</p>
