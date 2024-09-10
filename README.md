@@ -3,7 +3,7 @@
 <div align="center">
 <p>🌱 I'm studying: React, Next.Js and Tailwind.</p> 
 <p>💬 I can help you with: HTML, CSS, Bootstrap, JavaScript and React.</p>
-<p>📫 Contact me: <a href="mailto:mariaeduardapecanhadealmeida@gmail.com" target="_blank">mariaeduardapecanhadealmeida@gmail.com</a></p>
+<p>📫 Contact me: <a href="mailto:eduardaalmeida.dev@gmail.com" target="_blank">mariaeduardapecanhadealmeida@gmail.com</a></p>
 <p>😄 Pronouns: She/Her</p>
 </div>
 
